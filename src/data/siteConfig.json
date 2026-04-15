@@ -1,0 +1,53 @@
+{
+  "name": "KATYLENE",
+  "slug": "katylene.com.br",
+  "description": "Tudo pela moda. O amor pela moda e as passarelas fez com que eu, Katylene, criasse esse site...por muito tempo ele não foi movimentado, criei ele quanto tinha 17 anos. Agora mais velha venho trazendo conteúdo focado no mundo da moda. Além de outros amantes do mundo da moda. Conheça nosso blog. Quem somos? blogger-about-staff2 Henrique Hanriot Estilista Encontrei na profissão de estilista uma realização que acredito ser de outras vidas. Venho pelos posts desse blog compartilhar noticias das passarelas, dicas e entrevistas com modelos e muito mais relacionado ao mundo da alta moda. blogger-about-staff3 Katy Lene Designer de Moda Amante de moda, criei esse blog pra um dia promover meu trabalho. Até lá venho falando sobre tendências, looks inspirações e muitos outros assuntos relacionados .",
+  "url": "https://katylene.com.br",
+  "niche": "Moda e Beleza",
+  "keywords": "Tudo pela moda O amor pela moda e as passarelas fez com",
+  "email": "contato@katylene.com.br",
+  "palette": "slate",
+  "colors": {
+    "primary": "#334155",
+    "accent": "#1e293b",
+    "dark": "#0f172a"
+  },
+  "headerContrast": "dark",
+  "font": "outfit",
+  "fontFamily": "'Outfit', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-A",
+    "hero": "Hero-H",
+    "features": "Features-I",
+    "about": "About-A",
+    "posts": "Posts-C",
+    "footer": "Footer-H",
+    "sobre": "Sobre-E",
+    "contato": "Contato-G"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

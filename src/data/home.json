@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "KATYLENE — Bem-vindo ao KATYLENE!",
+    "description": "Tudo pela moda e as passarelas!"
+  },
+  "hero": {
+    "title": "Bem-vindo ao KATYLENE!",
+    "subtitle": "Tudo pela moda e as passarelas!",
+    "btnText": "Explore nosso Blog",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "O que você encontra aqui:",
+    "items": [
+      {
+        "icon": "✨",
+        "title": "Tendências da Moda",
+        "desc": "Descubra as últimas tendências e estilos que estão em alta nas passarelas e nas ruas."
+      },
+      {
+        "icon": "📰",
+        "title": "Notícias do Mundo Fashion",
+        "desc": "Fique por dentro das novidades do mundo da moda com notícias fresquinhas e relevantes."
+      },
+      {
+        "icon": "👗",
+        "title": "Inspirações de Looks",
+        "desc": "Encontre inspiração para compor seus looks do dia com dicas de nossos especialistas."
+      },
+      {
+        "icon": "💬",
+        "title": "Entrevistas Exclusivas",
+        "desc": "Conheça as histórias de estilistas e modelos que fazem a moda acontecer."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre Nós",
+    "desc": "KATYLENE é o espaço destinado a todos que amam o universo da moda. Criado por Katylene, com a colaboração de Henrique e Katy, nosso blog traz conteúdo exclusivo que conecta amantes da moda e profissionais da área.",
+    "stats": [
+      {
+        "value": "10",
+        "label": "anos dedicados à moda"
+      },
+      {
+        "value": "50+",
+        "label": "inspire looks e dicas"
+      },
+      {
+        "value": "100",
+        "label": "entrevistas exclusivas"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

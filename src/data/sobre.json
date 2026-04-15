@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o KATYLENE"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "KATYLENE é o espaço destinado a todos que amam o universo da moda. Criado por Katylene, com a colaboração de Henrique e Katy, nosso blog traz conteúdo exclusivo que conecta amantes da moda e profissionais da área."
+  },
+  "content": "O KATYLENE nasceu do amor incondicional por moda e passarelas. Desde a juventude, a busca por informações e tendências se tornou uma missão. Hoje, compartilhamos esse conhecimento com você!",
+  "mission": "Nossa missão é inspirar e educar sobre moda, promovendo o amor e a criatividade neste universo tão dinâmico.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}
